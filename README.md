@@ -5,8 +5,7 @@ foundation. You can install it like so:
 
     bower install bootstrap-theme-cirrus
 
-You can [see the GitHub pages](http://code.divshot.com/bootstrap-theme-cirrus/) for a live demo of how it looks and further instruction.
-Enjoy!
+You can [see the GitHub pages](http://code.divshot.com/bootstrap-theme-cirrus/) for a live demo of how it looks and further instruction. Enjoy!
 
 ## Copyright and license
 
